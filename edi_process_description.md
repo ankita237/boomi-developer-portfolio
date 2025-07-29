@@ -1,0 +1,3 @@
+- Used Boomi to automate EDI (850, 810, 856) documents.
+- Implemented routing with Lookup Tables.
+- Applied Try/Catch and error notification.

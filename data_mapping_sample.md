@@ -1,0 +1,2 @@
+- Map shapes used to align fields between Salesforce and NetSuite.
+- Lookup Tables applied for type translation.
